@@ -19,9 +19,9 @@ pipeline {
                           archiveArtifacts 'target/*.jar'
                  }
             }
-                }
-           }
+                
+           
       }
-          }
-     }
+          
+     
 }
